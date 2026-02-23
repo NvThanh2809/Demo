@@ -1,0 +1,30 @@
+.item {
+  width: 500px;
+  color: #353935;
+  font-size: 15px;
+  margin: 0 auto;
+}
+
+.itemName {
+  font-weight: bold;
+  padding: 5px;
+}
+
+.line {
+  border: 1px solid #f4f4f4;
+}
+.modernButton {
+  float: right;
+  display: inline-block;
+  border: none;
+  border-radius: 4px;
+  background-color: #f7ca18;
+  padding: 12px 20px;
+  color: #ffffff;
+  cursor: pointer;
+  margin-top: -5px;
+}
+.completed {
+  text-decoration: line-through;
+  cursor: pointer;
+}
